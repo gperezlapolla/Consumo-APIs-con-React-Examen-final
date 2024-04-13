@@ -1,4 +1,8 @@
-# Consumo-APIs-con-React-Examen-final
-Trabajo final y examen del curso React1 G56 Full Stack Javascript
+# React + Vite
 
-Enlace a video con descripcion y codigo de la aplicacion: https://youtu.be/AJiJYyYMf_w
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
